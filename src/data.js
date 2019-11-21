@@ -1,0 +1,72 @@
+export default [
+    {
+        id: '1',
+        name: 'Kameron Owens',
+        role: 'Engineer',
+        connectedOn: '2012-07-26',
+        status: 'screen',
+    },
+    {
+        id: '2',
+        name: 'Petra Mcfarlane',
+        role: 'Sales',
+        connectedOn: '2013-05-01',
+        status: 'scheduled',
+    },
+    {
+        id: '3',
+        name: 'Lily-May Lake',
+        role: 'Customer Support',
+        connectedOn: '2014-03-14',
+        status: 'explored',
+    },
+    {
+        id: '4',
+        name: 'Junayd Kerr',
+        role: 'Manager',
+        connectedOn: '2012-10-16',
+        status: 'hire',
+    },
+    {
+        id: '5',
+        name: 'Henry Donovan',
+        role: 'Manager',
+        connectedOn: '2015-08-24',
+        status: 'screen',
+    },
+    {
+        id: '6',
+        name: 'Pauline Wicks',
+        role: 'Sales',
+        connectedOn: '2012-01-05',
+        status: 'hire',
+    },
+    {
+        id: '7',
+        name: 'Mahnoor Peacock',
+        role: 'Engineer',
+        connectedOn: '2013-06-18',
+        status: 'scheduled',
+    },
+    {
+        id: '8',
+        name: 'Velma Andersen',
+        role: 'Customer Support',
+        connectedOn: '2014-01-01',
+        status: 'scheduled',
+    },
+    {
+        id: '9',
+        name: 'Lyndsey Mccray',
+        role: 'Engineer',
+        connectedOn: '2015-05-16',
+        status: 'hire',
+    },
+    {
+        id: '10',
+        name: 'Neriah Rosales',
+        role: 'Customer Support',
+        connectedOn: '2012-08-23',
+        status: 'screen',
+    }
+]
